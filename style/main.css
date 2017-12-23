@@ -2,8 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: url('../tile-sets/team.png');
-  background-size: 100%;
+  background: #e0d8dd;
   color: #5a1f5d;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
